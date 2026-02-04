@@ -10,7 +10,7 @@
 ## ⚠️ Medical Disclaimer
 > **IMPORTANT: THIS APPLICATION IS FOR EDUCATIONAL AND RESEARCH PURPOSES ONLY.**
 >
-> This software implements dosage prediction algorithms based on medical research papers and clinical guidelines. However, **it is NOT a certified medical device**.
+> This software implements dosage caluculation algorithms based on medical research papers and clinical guidelines. However, **it is NOT a certified medical device**.
 > *   Do NOT use this for actual medical diagnosis or treatment.
 > *   Always consult a qualified endocrinologist or healthcare provider.
 > *   The creators assume no liability for the use or misuse of this software.
@@ -67,7 +67,7 @@ This project requires **Node.js 16+** and a **Firebase Project**.
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/thyroid-ai.git
+    git clone https://github.com/happy77005/thyroid-dosage-webapp
     cd thyroid-ai
     ```
 
